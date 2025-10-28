@@ -2,6 +2,7 @@
 import math  # nạp thư viện toán
 
 # Khai báo biến
+print("Hello GitHub! Tôi đang học Python.")
 ten = input("Nhập tên: ")
 tuoi = int(input("Nhập tuổi: "))
 
